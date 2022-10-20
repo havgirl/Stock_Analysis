@@ -14,7 +14,7 @@ A few of the components that required modification included the following:
 - [ ] Using **FOR** to loop thru the stock data; reading and storing all of the values from each row
 
 **To view the key components refactored code select below link:**
-![Refactoredcode.png]
+https://github.com/havgirl/Stock_Analysis/blob/a071230ca90168f63f4f941c39d31a0502be3bd4/Refactoredcode.png
 
 ### Analysis of Original Code vs Refactored Code - 2017 
 Refactoring the original code yielded an improvement of **.4179688 seconds**
