@@ -13,14 +13,17 @@ A few of the components that required modification included the following:
 - [ ] Creation of three output arrays for tickerVolumes, tickerStartingPrices, and tickerEndingPrices
 - [ ] Using **FOR** to loop thru the stock data; reading and storing all of the values from each row
 
+**To view the key components refactored code select below link:**
+(Refactoredcode.png)
+
 ### Analysis of Original Code vs Refactored Code - 2017 
 Refactoring the original code yielded an improvement of **.4179688 seconds**
 
-**2017 Original code:*
+*2017 Original code:*
 
 ![Originalcode_2017.png](Originalcode_2017.png)
 
-**2017 Refactored code:*
+*2017 Refactored code:*
 
 ![Refactoredcode_2017.png](Refactoredcode_2017.png)
 
@@ -28,11 +31,11 @@ Refactoring the original code yielded an improvement of **.4179688 seconds**
 ### Analysis of Original Code vs Refactored Code - 2018 
 Refactoring the original code yielded an improvement of **.4101563 seconds**
 
-**2018 Original code:*
+*2018 Original code:*
 
 ![Originalcode_2018.png](Originalcode_2018.png)
 
-**2018 Refactored code:*
+*2018 Refactored code:*
 
 ![Refactoredcode_2018.png](Refactoredcode_2018.png)
 
