@@ -3,18 +3,18 @@
 ## Overview of Project
 
 ### Purpose
-The goal of this project is to evaluate our results using two separate script methodologies.  In both outcomes we will be seeking a Stock output report that includes the Stock Ticker, Total Daily Volume, and the Return for each year.  The goal is to create a refactored script that runs more efficiently vs the original, and to assist in analyzing the results we will include code to track how long each script takes to run from start to finish.  Our final recommendation will allow our client (Steve) to run future analysis most efficiently and will assist him in determining what Stock investments are best for his clients.
+The goal of this project is to evaluate our results using two separate script methodologies.  In both outcomes we will be seeking a Stock output report that includes the Stock Ticker, Total Daily Volume, and the Return for each year.  The goal is to create a refactored script that runs more efficiently vs the original, and to assist in analyzing the results we will include a timer to track how long each script takes to run from start to finish.  Our final recommendation will allow our client (Steve) to run future analysis most efficiently and will assist him in determining what Stock investments are best for his clients.
 
 ## Results
 
-### Refactoring the Code - Key Steps
-A few of the components that required modification included the following:
+### Refactoring the Original Code 
+A few components that required modification included the following:
 - [ ] Creation of a ticker Index
 - [ ] Creation of three output arrays for tickerVolumes, tickerStartingPrices, and tickerEndingPrices
 - [ ] Using **FOR** to loop thru the stock data; reading and storing all of the values from each row
 
-**To view the key components refactored code select below link:**
-https://github.com/havgirl/Stock_Analysis/blob/a071230ca90168f63f4f941c39d31a0502be3bd4/Refactoredcode.png
+**To view components of the Refactored code visit the below link:**
+Refactoredcode.png
 
 ### Analysis of Original Code vs Refactored Code - 2017 
 Refactoring the original code yielded an improvement of **.4179688 seconds**
